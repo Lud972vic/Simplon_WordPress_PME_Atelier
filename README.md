@@ -2,4 +2,9 @@
 Amélioré un site existant avec Word Press
 
 https://cpnp.pagesperso-orange.fr/
-https://user-images.githubusercontent.com/52196263/120825298-893a6980-c559-11eb-9929-b643565f5758.mp4
+
+https://fr-fr.facebook.com/clubphotoneuillyplaisance
+
+http://localhost/www/simplon/club_photo_de_neuilly_plaisance/
+
+http://localhost/www/simplon/Exercices_PHP/BlogPHPMyQL_WordPress/index.php
