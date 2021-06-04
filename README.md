@@ -2,7 +2,7 @@
 Amélioré un site existant avec Word Press
 
 # Site https://cpnp.pagesperso-orange.fr/
-# Vidéo https://user-images.githubusercontent.com/52196263/120826888-2ea20d00-c55b-11eb-8404-0de7e28a7bcf.mp4
+https://user-images.githubusercontent.com/52196263/120826888-2ea20d00-c55b-11eb-8404-0de7e28a7bcf.mp4
 
 https://fr-fr.facebook.com/clubphotoneuillyplaisance
 
