@@ -7,7 +7,7 @@ https://user-images.githubusercontent.com/52196263/120826888-2ea20d00-c55b-11eb-
 # Site secondaire de l'association https://fr-fr.facebook.com/clubphotoneuillyplaisance
 https://user-images.githubusercontent.com/52196263/120827390-aec87280-c55b-11eb-9dde-448ca470fc8a.mp4
 
+#Projet WordPress http://localhost/www/simplon/club_photo_de_neuilly_plaisance/
 
-http://localhost/www/simplon/club_photo_de_neuilly_plaisance/
 
 http://localhost/www/simplon/Exercices_PHP/BlogPHPMyQL_WordPress/index.php
