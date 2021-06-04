@@ -9,7 +9,6 @@ https://user-images.githubusercontent.com/52196263/120827390-aec87280-c55b-11eb-
 
 #Projet WordPress http://localhost/www/simplon/club_photo_de_neuilly_plaisance/
 
-
 #Accueil
 https://user-images.githubusercontent.com/52196263/120829053-690ca980-c55d-11eb-8192-b575f0252f39.mp4
 
