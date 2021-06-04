@@ -33,4 +33,5 @@ https://user-images.githubusercontent.com/52196263/120829101-6b6f0380-c55d-11eb-
 #Faire une belle interface pour présenter les articles.
 
 http://localhost/www/simplon/Exercices_PHP/BlogPHPMyQL_WordPress/index.php
+
 https://user-images.githubusercontent.com/52196263/120830365-b4738780-c55e-11eb-86da-4d23143dcc4a.mp4
