@@ -1,4 +1,4 @@
-# Simplon_WordPress_PME_Atelier
+# WordPress_ClubPhoto
 Amélioré un site existant avec Word Press
 
 # Site de l'association https://cpnp.pagesperso-orange.fr/
